@@ -22,3 +22,17 @@ AutoML are libraries that automate the selection and automation of the machine l
 
 * production and research are different
 * performance is more imporant in prod
+
+## Apache Arrow ##
+
+* interoperative data frames
+* in development, but with a large number of bindings
+* works with columnar data
+
+## cis_interface ##
+
+* crops in silico
+* simuliation of large number of plants
+* combining models in different languages are hard
+* configure inputs/outputs using yaml
+* can link models and pass inputs around
