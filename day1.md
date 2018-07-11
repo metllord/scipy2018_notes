@@ -3,4 +3,3 @@
 ## Keynote: SciPy ##
 
 * Scipy has a roadmap... that sounds pretty great
-* 
