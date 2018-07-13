@@ -19,3 +19,6 @@
 
 * YOLOv2 (https://pjreddie.com/darknet/yolo/)
 * https://github.com/mapbox/robosat
+
+## Dimension Reduction at Scale ##
+
